@@ -13,7 +13,7 @@ Ranged units may shoot at opponent’s miniatures engaged in close combat with a
  
 <h2 style="text-align: center;">Full Vissibility</h2><div style= "text-align: center;">If you can see the  entire base of the target, get 1d6!<div>
 
-<h2 style="text-align: center;">Steady Aim</h2><div style= "text-align: center;">If your miniature hasn’t moved yet this turn, whatever is your turn or opponent’s turn, get 1d6!<div>
+<h2 style="text-align: center;">Steady Aim</h2><div style= "text-align: center;">If your miniature hasn’t moved yet this round, get 1d6!<div>
 
 
 
