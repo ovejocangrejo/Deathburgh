@@ -15,10 +15,9 @@ engaging in a fight.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Otro Tooltip</title>
-    <link rel="stylesheet" href="../style.css"> <!-- Llamamos al CSS existente -->
+     <link rel="stylesheet" href="../style.css"> <!-- Llamamos al CSS existente -->
         <style>
-                @media screen and (max-width: 600px) {
+               @media screen and (max-width: 600px) {
             .tooltip {
                 bottom: auto;
                 top: 120%; /* Si la pantalla es pequeña, se coloca abajo */
@@ -31,7 +30,7 @@ engaging in a fight.
                 border-color: transparent transparent rgba(0, 0, 0, 0.8) transparent;
             }
 }
-    </style>
+        </style>
 </head>
 <body>
     <p><p class= "right-text">> <span class="resaltado">(11) KEEP IN MIND!<span class="tooltip"> You can react dodging to almost everything in the game. Even if are automatic hits made by a skill or incomings melee or ranged attacks.
