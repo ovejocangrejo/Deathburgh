@@ -17,8 +17,7 @@ engaging in a fight.
     <title>Otro Tooltip</title>
     <link rel="stylesheet" href="../style.css"> <!-- Llamamos al CSS existente -->
         <style>
-        /* Evita que el tooltip salga de la pantalla en pantallas pequeñas */
-        @media screen and (max-width: 600px) {
+                @media screen and (max-width: 600px) {
             .tooltip {
                 bottom: auto;
                 top: 120%; /* Si la pantalla es pequeña, se coloca abajo */
