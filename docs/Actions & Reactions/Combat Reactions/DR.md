@@ -6,7 +6,7 @@ nav_order: 3
 ---
 <link rel="stylesheet" href="style.css">
 <h1 style="text-align: center;">Dodge Reaction</h1>
-Sometimes fighting back isn’t an option, such as when a ranged unit is base-to-base with an opponent’s miniature for several rounds or when a melee miniature is attacked by a ranged one or when someone is fleeing away.
+Sometimes fighting back isn’t an option, such as when a ranged unit is base-to-base with an opponent’s miniature for several rounds or when a melee miniature is attacked by a ranged one or when someone is fleeing away. All your successes cancel out your opponent's attacks successes.
 
 In this scenario, you will follow the combat resolution as usual, but all your hits will be ignored by the Attacker miniature.
 This is what we call responding to an action with a dodge reaction. Unlike melee combat, it's more about one miniature attempting to survive the opponent’s miniature attacks rather than
