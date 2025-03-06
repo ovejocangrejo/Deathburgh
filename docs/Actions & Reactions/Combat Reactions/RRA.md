@@ -7,7 +7,7 @@ nav_order: 2
 <link rel="stylesheet" href="style.css">
 <h1 style="text-align: center;">Reaction Ranged Attack</h1>
 
-A miniature equipped with a ranged weapon may respond to any enemy action with a <b>Reaction Ranged Attack</b>, except when being charged, as this triggers a Stand and Shoot. The reaction must be declared after the enemy's action has fully resolved. The miniature can only react if it is in <b>Aggressive mode</b> and not in base-to-base contact with another enemy miniature.
+A miniature equipped with a ranged weapon may respond to any enemy action with a <b>Reaction Ranged Attack</b>, except when being charged, as this triggers a Stand and Shoot. The reaction must be declared after the enemy's action has fully resolved. The miniature can only react if it is not in base-to-base contact with another enemy miniature.
 
 
 - The target of a Reaction Ranged Attack must be within weapon range and in the Line of Sight (LOS) of the attacking miniature.
