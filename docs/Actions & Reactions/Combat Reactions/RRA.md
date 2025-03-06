@@ -7,7 +7,8 @@ nav_order: 2
 <link rel="stylesheet" href="style.css">
 <h1 style="text-align: center;">Reaction Ranged Attack</h1>
 
-A miniature equipped with a <b>Ranged Weapon</b>, may respond to any enemy action, provided the action has fully resolved before the reaction is declared with a Reaction Ranged Attack.
+A miniature equipped with a <b>Ranged Weapon</b>, may respond to any enemy action, provided the action has fully resolved before the reaction is declared with a Reaction Ranged Attack in <b>Aggressive Mode.</b>
+
 
 - The target of a Reaction Ranged Attack must be within weapon range and in the Line of Sight (LOS) of the attacking miniature.
 - When an opposing model completes an action (e.g., a <b>Move Forward</b> action), a friendly model with <b>Reaction Ranged Attack</b> may immediately declare a reaction against it.
