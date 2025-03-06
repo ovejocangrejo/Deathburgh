@@ -11,8 +11,6 @@ Sometimes fighting back isn’t an option, such as when a ranged unit is base-to
 In this scenario, you will follow the combat resolution as usual, but all your hits will be ignored by the Attacker miniature.
 This is what we call responding to an action with a dodge reaction. Unlike melee combat, it's more about one miniature attempting to survive the opponent’s miniature attacks rather than
 engaging in a fight.
-##Dodge reaction to a reaction or action.
-- Dodge is the only reaction that can be trigggered by any action or reaction. Due to the imperious need that enlivens the spirit of our miniatures to avoid being hit.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -40,9 +38,15 @@ engaging in a fight.
 </span></span></p> </p>
 </body>
 
+
+##Dodge reaction to a reaction or action.
+
+- Dodge is the only reaction that can be trigggered by any action or reaction. Due to the imperious need that enlivens the spirit of our miniatures to avoid being hit.
+
+
 ## WHAT IF DODGE'S SUCCESSES ARE ABOVE INCOMING ATTACKS?
 
-★ If <b>both fighters are melee or ranged</b>, it is possible to wound the opponent back. Each success that exceeds the successes of the opponent's attacks will be automatic wounds inflicted on the miniature making the attacks. Representing the miniature's ability to parry enemy attacks and wound back. Or the incompetence of the enemy who rushes in missing all his attacks and the defender's wasted opportunity to inflict wounds.
+- ★ If <b>both fighters are melee or ranged</b>, it is possible to wound the opponent back. Each success that exceeds the successes of the opponent's attacks will be automatic wounds inflicted on the miniature making the attacks. Representing the miniature's ability to parry enemy attacks and wound back. Or the incompetence of the enemy who rushes in missing all his attacks and the defender's wasted opportunity to inflict wounds.
 
 <head>
     <meta charset="UTF-8">
