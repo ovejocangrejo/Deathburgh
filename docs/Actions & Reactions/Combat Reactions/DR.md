@@ -11,6 +11,8 @@ Sometimes fighting back isn’t an option, such as when a ranged unit is base-to
 In this scenario, you will follow the combat resolution as usual, but all your hits will be ignored by the Attacker miniature.
 This is what we call responding to an action with a dodge reaction. Unlike melee combat, it's more about one miniature attempting to survive the opponent’s miniature attacks rather than
 engaging in a fight.
+##Dodge reaction to a reaction or action.
+- Dodge is the only reaction that can be trigggered by any action or reaction. Due to the imperious need that enlivens the spirit of our miniatures to avoid being hit.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
