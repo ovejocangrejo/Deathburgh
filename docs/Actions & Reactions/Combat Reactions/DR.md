@@ -38,7 +38,7 @@ engaging in a fight.
 </body>
 
 
-##Dodge reaction to a reaction or action.
+## Dodge reaction to a reaction or action.
 
 - Dodge is the only reaction that can be trigggered by any action or reaction. Due to the imperious need that enlivens the spirit of our miniatures to avoid being hit.
 
