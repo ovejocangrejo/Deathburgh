@@ -45,7 +45,7 @@ engaging in a fight.
 
 ## WHAT IF DODGE'S SUCCESSES ARE ABOVE INCOMING ATTACKS?
 
-- ★ If <b>both fighters are melee or ranged</b>, it is possible to wound the opponent back. Each success that exceeds the successes of the opponent's attacks will be automatic wounds inflicted on the miniature making the attacks. Representing the miniature's ability to parry enemy attacks and wound back. Or the incompetence of the enemy who rushes in missing all his attacks and the defender's wasted opportunity to inflict wounds.
+- ★ If <b>both fighters are melee or ranged</b>, it is possible to wound the opponent back. Each success that exceeds the successes of the opponent's attacks will be automatic wounds inflicted on the miniature making the attacks. Representing the miniature's ability to parry enemy attacks and wound back. Or the incompetence of the enemy who rushes in missing all his attacks and the defender's opportunity to inflict wounds due to their clunkiness.
 
 <head>
     <meta charset="UTF-8">
