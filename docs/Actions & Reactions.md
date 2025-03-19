@@ -26,6 +26,8 @@ Reactions can only be performed in response to an opponent’s action—never to
 
 ● No reacting with two different responses to the same action.
 
+● A reaction must be declared just after an action is declared. Not after the action has been completed.
+
 This reflects the fast-paced nature of combat and the limited time to react.
 During a miniature's turn, it can perform any number of **actions**, as long as conditions allow.
 
