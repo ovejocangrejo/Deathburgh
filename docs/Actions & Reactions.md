@@ -18,7 +18,7 @@ Each miniature can perform actions during their Turn Phase and reactions during 
 
 Miniatures can only perform one action at a time, and the same action cannot be repeated in the same turn, with the same miniature, unless a skill or rule allows it.
 
-Reactions can only be performed in response to an opponent’s action—never to another reaction. Each miniature can react only once per action, meaning:
+Reactions can only be performed in response to an opponent’s action—never to another reaction or another miniature besides the one performing the action, meaning:
 
 ● No chain reactions.
 
